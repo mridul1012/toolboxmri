@@ -6,16 +6,16 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='toolbox',
     version='0.0.3',
-    author='Mike Huls',
-    author_email='mike_huls@hotmail.com',
+    author='Mridul agrawal',
+    author_email='mridul16011996@gmail.com',
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/Muls/toolbox',
-    project_urls = {
-        "Bug Tracker": "https://github.com/Muls/toolbox/issues"
-    },
+    url='https://github.com/mridul1012/toolboxmri',
+    # project_urls = {
+    #     "Bug Tracker": "https://github.com/Muls/toolbox/issues"
+    # },
     license='MIT',
-    packages=['toolbox'],
+    packages=['toolboxmri'],
     install_requires=['requests'],
 )
