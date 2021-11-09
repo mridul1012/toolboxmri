@@ -18,3 +18,6 @@ def weirdCase(targetString:str):
         else:
             returnWord += letter.upper()
     return returnWord
+
+def fun():
+    print("hi mei")
