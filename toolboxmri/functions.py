@@ -20,4 +20,4 @@ def weirdCase(targetString:str):
     return returnWord
 
 def fun():
-    print("hi mei")
+    print("hi mridul")
